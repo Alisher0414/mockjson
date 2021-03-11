@@ -1,15 +1,15 @@
 {
 "posts": [
-{"id": 1, "email": "alishka@gmail.com", "password": "Wearethe4$" },
-{"id": 2, "email": "ali020414@mail.ru", "password": "Widuhfjk4$" },
-{"id": 3, "email": "alish808@gmail.com", "password": "ugdfbkG4$" },
-{"id": 4, "email": "ali7182@mail.ru", "password": "Ijshvsk4$" },
-{"id": 5, "email": "theaxeboy@gmail.com", "password": "Ehvcjjd4$" },
-{"id": 6, "email": "khabibi@gmail.com", "password": "Pnkjdbci4$" },
-{"id": 7, "email": "wiggawigga@mail.ru", "password": "Vgchythcj4$" },
-{"id": 8, "email": "scriptonit@gmail.com", "password": "Yhbjchsk4$" },
-{"id": 9, "email": "flash@mail.ru", "password": "Ohcuhdj4$" },
-{"id": 10, "email": "wasap@gmail.com", "password": "Aghgfctuj4$" }
+{"id": 1, "emmail": "alishka@gmail.com", "password": "Wearethe4$" },
+{"id": 2, "emmail": "ali020414@mail.ru", "password": "Widuhfjk4$" },
+{"id": 3, "emmail": "alish808@gmail.com", "password": "ugdfbkG4$" },
+{"id": 4, "emmail": "ali7182@mail.ru", "password": "Ijshvsk4$" },
+{"id": 5, "emmail": "theaxeboy@gmail.com", "password": "Ehvcjjd4$" },
+{"id": 6, "emmail": "khabibi@gmail.com", "password": "Pnkjdbci4$" },
+{"id": 7, "emmail": "wiggawigga@mail.ru", "password": "Vgchythcj4$" },
+{"id": 8, "emmail": "scriptonit@gmail.com", "password": "Yhbjchsk4$" },
+{"id": 9, "emmail": "flash@mail.ru", "password": "Ohcuhdj4$" },
+{"id": 10, "emmail": "wasap@gmail.com", "password": "Aghgfctuj4$" }
 ],
 "comments": [
 {"id": 1, "name": "comment1", "postId": 1 },
