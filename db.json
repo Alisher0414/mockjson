@@ -1,0 +1,13 @@
+{
+"posts":[
+{"id"=1, "title"="ruka", "description"="this is ruka"},
+{"id"=2, "title"="noga", "description"="this is noga"},
+{"id"=3, "title"="zhopa", "description"="this is zhopa"}
+],
+"comments":[
+{"id"=1, "name"="comment1", "postId"=1}
+{"id"=1, "name"="comment2", "postId"=2}
+{"id"=1, "name"="comment3", "postId"=3}
+]
+""
+}
