@@ -24,8 +24,8 @@
 {"id": 10, "company": "Huawei", "model": "P40" }
 ],
 "Laptops": [
-{"id": 1, "company": "Acer", "model": "Aspire1", "cost": 5000},
-{"id": 2, "company": "Acer", "model": "Aspire2", "cost": 5500} },
+{"id": 1, "company": "Acer", "model": "Aspire1", "cost": 5000 },
+{"id": 2, "company": "Acer", "model": "Aspire2", "cost": 5500 },
 {"id": 3, "company": "Acer", "model": "Aspire3", "cost": 6000 },
 {"id": 4, "company": "Asus", "model": "Zenbook1", "cost": 7000 },
 {"id": 5, "company": "Asus", "model": "Zenbook2", "cost": 7500 },
@@ -58,6 +58,6 @@
 {"id": 8, "company": "Sony", "model": "A6H" },
 {"id": 9, "company": "Sony", "model": "A7H" },
 {"id": 10, "company": "Sony", "model": "A8H" }
-],
+]
   
 }
