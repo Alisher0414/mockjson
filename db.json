@@ -11,9 +11,53 @@
 {"id": 9, "emmail": "flash@mail.ru", "password": "Ohcuhdj4$" },
 {"id": 10, "emmail": "wasap@gmail.com", "password": "Aghgfctuj4$" }
 ],
-"comments": [
-{"id": 1, "name": "comment1", "postId": 1 },
-{"id": 2, "name": "comment2", "postId": 2 },
-{"id": 3, "name": "comment3", "postId": 3 }
-]
+"smartphones": [
+{"id": 1, "company": "Samsung", "model": "A10" },
+{"id": 2, "company": "Samsung", "model": "A20" },
+{"id": 3, "company": "Samsung", "model": "A30" },
+{"id": 4, "company": "Apple", "model": "IPhone 5" },
+{"id": 5, "company": "Apple", "model": "IPhone 6" },
+{"id": 6, "company": "Apple", "model": "IPhone 7" },
+{"id": 7, "company": "Apple", "model": "IPhone 8" },
+{"id": 8, "company": "Huawei", "model": "P20" },
+{"id": 9, "company": "Huawei", "model": "P30" },
+{"id": 10, "company": "Huawei", "model": "P40" }
+],
+"Laptops": [
+{"id": 1, "company": "Acer", "model": "Aspire1", "cost": 5000},
+{"id": 2, "company": "Acer", "model": "Aspire2", "cost": 5500} },
+{"id": 3, "company": "Acer", "model": "Aspire3", "cost": 6000 },
+{"id": 4, "company": "Asus", "model": "Zenbook1", "cost": 7000 },
+{"id": 5, "company": "Asus", "model": "Zenbook2", "cost": 7500 },
+{"id": 6, "company": "Asus", "model": "Zenbook3", "cost": 8000 },
+{"id": 7, "company": "Asus", "model": "Zenbook4", "cost": 8500 },
+{"id": 8, "company": "HP", "model": "Pavilion", "cost": 6000 },
+{"id": 9, "company": "HP", "model": "Pavilion2", "cost": 6500 },
+{"id": 10, "company": "HP", "model": "Pavilion3", "cost": 7000 }
+],
+"tablets": [
+{"id": 1, "company": "Samsung", "model": "Galaxy Tab 7" },
+{"id": 2, "company": "Samsung", "model": "Galaxy Tab 6" },
+{"id": 3, "company": "Samsung", "model": "Galaxy Tab 5" },
+{"id": 4, "company": "Apple", "model": "IPad mini" },
+{"id": 5, "company": "Apple", "model": "IPhone 9" },
+{"id": 6, "company": "Apple", "model": "IPhone 10" },
+{"id": 7, "company": "Apple", "model": "IPhone 11" },
+{"id": 8, "company": "Lenovo", "model": "Tab P9" },
+{"id": 9, "company": "Lenovo", "model": "Tab P10" },
+{"id": 10, "company": "Lenovo", "model": "Tab P11" }
+],
+  "TV": [
+{"id": 1, "company": "Samsung", "model": "Q750" },
+{"id": 2, "company": "Samsung", "model": "Q850" },
+{"id": 3, "company": "Samsung", "model": "Q950" },
+{"id": 4, "company": "LG", "model": "CX1" },
+{"id": 5, "company": "LG", "model": "CX2" },
+{"id": 6, "company": "LG", "model": "CX3" },
+{"id": 7, "company": "LG", "model": "CX4" },
+{"id": 8, "company": "Sony", "model": "A6H" },
+{"id": 9, "company": "Sony", "model": "A7H" },
+{"id": 10, "company": "Sony", "model": "A8H" }
+],
+  
 }
