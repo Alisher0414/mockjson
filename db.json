@@ -1,63 +1,30 @@
 {
-"posts": [
+"users": [
 {"id": 1, "emmail": "alishka@gmail.com", "password": "Wearethe4$" },
 {"id": 2, "emmail": "ali020414@mail.ru", "password": "Widuhfjk4$" },
 {"id": 3, "emmail": "alish808@gmail.com", "password": "ugdfbkG4$" },
 {"id": 4, "emmail": "ali7182@mail.ru", "password": "Ijshvsk4$" },
-{"id": 5, "emmail": "theaxeboy@gmail.com", "password": "Ehvcjjd4$" },
-{"id": 6, "emmail": "khabibi@gmail.com", "password": "Pnkjdbci4$" },
-{"id": 7, "emmail": "wiggawigga@mail.ru", "password": "Vgchythcj4$" },
-{"id": 8, "emmail": "scriptonit@gmail.com", "password": "Yhbjchsk4$" },
-{"id": 9, "emmail": "flash@mail.ru", "password": "Ohcuhdj4$" },
-{"id": 10, "emmail": "wasap@gmail.com", "password": "Aghgfctuj4$" }
+{"id": 5, "emmail": "theaxeboy@gmail.com", "password": "Ehvcjjd4$" }
 ],
-"smartphones": [
-{"id": 1, "company": "Samsung", "model": "A10" },
-{"id": 2, "company": "Samsung", "model": "A20" },
-{"id": 3, "company": "Samsung", "model": "A30" },
-{"id": 4, "company": "Apple", "model": "IPhone 5" },
-{"id": 5, "company": "Apple", "model": "IPhone 6" },
-{"id": 6, "company": "Apple", "model": "IPhone 7" },
-{"id": 7, "company": "Apple", "model": "IPhone 8" },
-{"id": 8, "company": "Huawei", "model": "P20" },
-{"id": 9, "company": "Huawei", "model": "P30" },
-{"id": 10, "company": "Huawei", "model": "P40" }
+"books": [
+{"id": 1, "title": "The house on mango street", "author": "Sandra Cisneros", "cost": 500 },
+{"id": 2, "title": "Thirteen reasons why", "author": "Jay Asher", "cost": 700 },
+{"id": 3, "title": "Peter Pan", "author": "J.M.Barrie", "cost": 800 },
+{"id": 4, "title": "The old man and the sea", "author": "Ernest Hemmingway", "cost": 600 },
+{"id": 5, "title": "The giver", "author": "Lois Lourey", "cost": 700 }
 ],
-"Laptops": [
-{"id": 1, "company": "Acer", "model": "Aspire1", "cost": 5000 },
-{"id": 2, "company": "Acer", "model": "Aspire2", "cost": 5500 },
-{"id": 3, "company": "Acer", "model": "Aspire3", "cost": 6000 },
-{"id": 4, "company": "Asus", "model": "Zenbook1", "cost": 7000 },
-{"id": 5, "company": "Asus", "model": "Zenbook2", "cost": 7500 },
-{"id": 6, "company": "Asus", "model": "Zenbook3", "cost": 8000 },
-{"id": 7, "company": "Asus", "model": "Zenbook4", "cost": 8500 },
-{"id": 8, "company": "HP", "model": "Pavilion", "cost": 6000 },
-{"id": 9, "company": "HP", "model": "Pavilion2", "cost": 6500 },
-{"id": 10, "company": "HP", "model": "Pavilion3", "cost": 7000 }
+"posters": [
+{"id": 1, "title": "The Great Wave at Kanagawa", "size": "36*24", "cost": 2500},
+{"id": 2, "title": "Flying Balloon Girl", "size": "12*16", "cost": 2000},
+{"id": 3, "title": "The Waterlily Pond with the Japanese Bridge", "size": "16*16", "cost": 3000},
+{"id": 4, "title": "Marvel Comics - Wolverine - Cover", "size": "24*36", "cost": 2000},
+{"id": 5, "title": "King I Have a Dream", "size": "24*36", "cost": 3500}
 ],
-"tablets": [
-{"id": 1, "company": "Samsung", "model": "Galaxy Tab 7" },
-{"id": 2, "company": "Samsung", "model": "Galaxy Tab 6" },
-{"id": 3, "company": "Samsung", "model": "Galaxy Tab 5" },
-{"id": 4, "company": "Apple", "model": "IPad mini" },
-{"id": 5, "company": "Apple", "model": "IPhone 9" },
-{"id": 6, "company": "Apple", "model": "IPhone 10" },
-{"id": 7, "company": "Apple", "model": "IPhone 11" },
-{"id": 8, "company": "Lenovo", "model": "Tab P9" },
-{"id": 9, "company": "Lenovo", "model": "Tab P10" },
-{"id": 10, "company": "Lenovo", "model": "Tab P11" }
-],
-  "TV": [
-{"id": 1, "company": "Samsung", "model": "Q750" },
-{"id": 2, "company": "Samsung", "model": "Q850" },
-{"id": 3, "company": "Samsung", "model": "Q950" },
-{"id": 4, "company": "LG", "model": "CX1" },
-{"id": 5, "company": "LG", "model": "CX2" },
-{"id": 6, "company": "LG", "model": "CX3" },
-{"id": 7, "company": "LG", "model": "CX4" },
-{"id": 8, "company": "Sony", "model": "A6H" },
-{"id": 9, "company": "Sony", "model": "A7H" },
-{"id": 10, "company": "Sony", "model": "A8H" }
+"models": [
+{"id": 1, "name": "hulk", "cost": "200" },
+{"id": 2, "name": "iron-man", "cost": "200" },
+{"id": 3, "name": "groot", "cost": "250" },
+{"id": 4, "name": "rocket", "cost": "250" },
+{"id": 5, "name": "vision", "cost": "150" }
 ]
-  
 }
